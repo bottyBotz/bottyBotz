@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @bottyBotz, more formally known as Daniel Efting, a current Masters student in Data Science and Machine Learning at UCL.
-- 👀 I’m interested in ML Applications in industry. Specifically Deep Learning using language, images, or a combination of both are my favorite fields. Consulting for ML solutions tailored to a company's business problem also excites me.
+
+- 👀 I’m interested in ML applications in industry as well as the further research in state-of-the-art methods to advance these applications. Specifically Deep Learning using language, images, or a combination of both are my favorite fields. Consulting for ML solutions tailored to a company's business problem also excites me.
+
 - Deep Learning Frameworks applied to Medical Imaging are of specific interest to me and are the focus of my Master Thesis.
+
 - 🌱 I’m currently learning about image registration and conditional segmentation.
 
 <!---
