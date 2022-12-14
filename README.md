@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bottyBotz, a recent Masters graduate from UCL in Data Science and Machine Learning.
+- 👋 Hi, I’m Dan Efting, a recent Masters graduate from UCL in Data Science and Machine Learning.
 
 - 👀 I’m interested in ML applications in industry as well as the further research in state-of-the-art methods to advance these applications. Specifically Deep Learning using language, images, health science data, or a combination of all. 
 
