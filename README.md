@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dan Efting, a recent Masters graduate from UCL in Data Science and Machine Learning.
+- 👋 Hi, I’m Dan Efting, an AI Specialist and UCL MSc Graduate in Data Science and Machine Learning.
 
 - 👀 I’m interested in ML applications in industry as well as the further research in state-of-the-art methods to advance these applications. Specifically Deep Learning using language, images, health science data, or a combination of all. 
 
-- Deep Learning Frameworks applied to Medical Imaging or Health Science data and Automatic Insights from text are of specific interest to me.
+- Deep Learning Frameworks applied to Medical Imaging or Health Science data and automatic insights from text are of specific interest to me.
 
 - 🌱 I’m currently learning about ML's applications to Bioinformatics.
 
