@@ -4,7 +4,7 @@
 
 - Deep Learning Frameworks applied to Medical Imaging or Health Science data and automatic insights from text are of specific interest to me.
 
-- 🌱 I’m currently learning about Generative AI.
+- 🌱 I’m currently learning about Generative AI, LangChain, and LLMs.
 
 <!---
 bottyBotz/bottyBotz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
