@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ML applications in industry as well as the further research in state-of-the-art methods to advance these applications. Especially ML using language, images, health science data, and insurance data.
 
-- Deep Learning Frameworks applied to images are of specific interst to me.
+- Deep Learning Frameworks applied to images are of specific interest to me.
 
 - 🌱 I’m currently learning about Generative AI, LangChain, and LLMs.
 
