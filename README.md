@@ -1,5 +1,4 @@
-### 👋 Hi, I'm Dan Efting, a Product Data Scientist in London and UCL MSc Graduate in Data Science and
-  Machine Learning.
+### 👋 Hi, I'm Dan Efting, a Product Data Scientist in London and UCL MSc Graduate in Data Science and Machine Learning.
 
 ### 🔬 Always experimenting.
 
